@@ -1,0 +1,14 @@
+{
+    "timer": [
+      {"name": "EI weich", "duration": 7},
+      {"name": "Pasta al dente", "duration": 10},
+      {"name": "Kaffeebrühen", "duration": 5},
+      {"name": "Joggen", "duration": 30},
+      {"name": "Mittagsschlaf", "duration": 20},
+      {"name": "Handyaufladen", "duration": 120},
+      {"name": "Yoga", "duration": 15},
+      {"name": "Lesen", "duration": 45},
+      {"name": "Gemüse grillen", "duration": 12},
+      {"name": "Musikhören", "duration": 60}
+    ]
+}
